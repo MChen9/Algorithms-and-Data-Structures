@@ -7,7 +7,7 @@ It will includes three aspects of solution
 - Algorithm
 - Time and space complexity
 
-[Timeline]()
+[Timeline](https://github.com/MChen9/Algorithms-and-Data-Structures/blob/master/Timeline.md)
 
 * [Array](#array)
 * [String](#string)
