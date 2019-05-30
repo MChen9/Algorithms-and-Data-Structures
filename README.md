@@ -1,6 +1,6 @@
 # Algorithms-and-Data-Structures
 
-This repository is for recording the study trace of [Leetcode](https://leetcode.com/problemset/all/). Some contents are based on [UCBerkeley CS61B Spring2014](https://people.eecs.berkeley.edu/~jrs/61b/) and [Fifty Must Know Algorithms and Data Structures](https://github.com/wangzheng0822/algo?from=singlemessage&isappinstalled=0).
+This repository is for recording the study trace of [Leetcode](https://leetcode.com/problemset/all/). Some contents are based on [UCBerkeley CS61B Spring2014](https://people.eecs.berkeley.edu/~jrs/61b/), [Fifty Must Know Algorithms and Data Structures](https://github.com/wangzheng0822/algo?from=singlemessage&isappinstalled=0) and [Leetcode Tags](https://cspiration.com/leetcodeClassification#10301).
 
 It will includes three aspects of solution
 - Data structure
