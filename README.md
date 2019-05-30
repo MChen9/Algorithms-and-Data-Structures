@@ -9,13 +9,49 @@ It will includes three aspects of solution
 
 [Timeline](https://github.com/MChen9/Algorithms-and-Data-Structures/blob/master/Timeline.md)
 
-## Topics
+## Contents
 * [Array](#array)
 * [String](#string)
 * [Math](#math)
+* [Tree](#tree)
+* [Backtracking](#backtracking)
+* [Matrix](#matrix)
+* [DFS & BFS](#dfs-and-bfs)
+* [Stack & Priority Queue](#stack-and-priority-queue)
+* [Bit Manipulation](#bit-manipulation)
+* [Topological Sort](#topological-sort)
+* [Random](#random)
+* [Graph](#graph)
+* [Union Find](#union-find)
+* [Trie](#trie)
+* [Design](#design)
 
 ## Array
 
 ## String
 
 ## Math
+
+## Tree
+
+## Backtracking
+
+## Matrix
+
+## DFS and BFS
+
+## Stack and Priority Queue
+
+## Bit Manipulation
+
+## Topological Sort
+
+## Random
+
+## Graph
+
+## Union Find
+
+## Trie
+
+## Desgin
