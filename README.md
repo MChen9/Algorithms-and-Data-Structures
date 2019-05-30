@@ -7,4 +7,9 @@ It will includes three aspects of solution
 - Algorithm
 - Time and space complexity
 
+[link text](#math)
 ## Array
+
+## String
+
+## Math
