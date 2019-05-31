@@ -28,8 +28,9 @@ It will includes three aspects of solution
 
 ## Array
 
-27 | Remove Element	
+Basic | 
 --- | ---
+27 | Remove Element
 26 | Remove Duplicates from Sorted Array	
 80 | Remove Duplicates from Sorted Array II	
 277 | Find the Celebrity	
