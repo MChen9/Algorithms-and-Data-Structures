@@ -3,4 +3,4 @@
 - Average 5 questions for each day
 
 *05/30/2019*
-- [ ] leetcode 27, 26, 80
+- [x] leetcode 27, 26, 80*
