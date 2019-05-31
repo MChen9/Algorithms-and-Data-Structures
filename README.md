@@ -28,7 +28,7 @@ It will includes three aspects of solution
 
 ## Array
 
-Basic | 
+ID | Title
 --- | ---
 27 | Remove Element
 26 | Remove Duplicates from Sorted Array	
