@@ -10,7 +10,7 @@ It will includes three aspects of solution
 [Timeline](https://github.com/MChen9/Algorithms-and-Data-Structures/blob/master/Timeline.md)
 
 ## Contents
-* [Array](#array)
+* [Array](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Array)
 * [String](#string)
 * [Math](#math)
 * [Tree](#tree)
