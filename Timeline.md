@@ -4,6 +4,7 @@
 - Try to think independently in 20 minutes, after that just refer to others' explaination
 - Revisits every week, 20 minutes for one problem
 - 2 easy + 2 medium + 1 hard daily
+- To understand algorithm, simulating computer running the program
 
 *05/30/2019*
 - [x] leetcode 27, 26, 80*
