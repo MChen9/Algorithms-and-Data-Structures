@@ -2,7 +2,7 @@
 - Average two days for one topic, go through all topics in one month, then recursively do it next two months
 - Average 5 questions for each day
 - Try to think independently in 20 minutes, after that just refer to others' explaination
-- Revisits every week, 25min for a easy problem, 45min for a medium problem
+- Revisits every weekend(two days), 25min for a easy problem, 45min for a medium problem
 - 2 easy + 2 medium + 1 hard daily
 - To understand algorithm, simulating computer running the program
 
