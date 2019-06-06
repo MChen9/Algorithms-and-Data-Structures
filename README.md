@@ -11,8 +11,8 @@ It will includes three aspects of solution
 
 ## Contents
 * [Array](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Array)
-* [String](#string)
-* [Math](#math)
+* [String](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Math/String)
+* [Math](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Math)
 * [Tree](#tree)
 * [Backtracking](#backtracking)
 * [Matrix](#matrix)
