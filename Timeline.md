@@ -28,4 +28,8 @@
 - [x] leetcode 2, 7, 9, 535, 149
 
 *06/07/2019*
-- [ ] leetcode 258, 202, 50, 8, 273
+- [x] leetcode 258, 202, 50, 8, 273
+
+*06/08/2019*
+- [ ] review last week questions
+- [ ] leetcode 104, 226, 96, 173, 297
