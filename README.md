@@ -11,7 +11,7 @@ It will includes three aspects of solution
 
 ## Contents
 * [Array](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Array)
-* [String](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Math/String)
+* [String](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/String)
 * [Math](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Math)
 * [Tree](#tree)
 * [Backtracking](#backtracking)
@@ -24,7 +24,7 @@ It will includes three aspects of solution
 * [Graph](#graph)
 * [Union Find](#union-find)
 * [Trie](#trie)
-* [Design](#design)
+* [Design](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Design)
 
 ## Array
 
