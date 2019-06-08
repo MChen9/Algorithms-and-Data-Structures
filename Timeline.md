@@ -5,6 +5,7 @@
 - Revisits every weekend(two days), 25min for a easy problem, 45min for a medium problem
 - 2 easy + 2 medium + 1 hard daily
 - To understand algorithm, simulating computer running the program
+- Review: Go through all codes and thinkings at first, then write code after reviewing all of them
 
 *05/30/2019*
 - [x] leetcode 27, 26, 80*
