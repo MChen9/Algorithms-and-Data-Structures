@@ -35,5 +35,9 @@
 - [x] review last week 16 questions
 
 *06/09/2019*
-- [ ] review last week rest questions
+- [ ] review last week Math questions
+
+*06/10/2019*
 - [ ] leetcode 104, 226, 96, 173, 297
+
+
