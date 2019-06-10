@@ -32,5 +32,8 @@
 - [x] leetcode 258, 202, 50, 8, 273
 
 *06/08/2019*
-- [ ] review last week questions
+- [x] review last week 16 questions
+
+*06/09/2019*
+- [ ] review last week left questions
 - [ ] leetcode 104, 226, 96, 173, 297
