@@ -13,7 +13,7 @@ It will includes three aspects of solution
 * [Array](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Array)
 * [String](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/String)
 * [Math](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Math)
-* [Tree](#tree)
+* [Tree](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Tree)
 * [Backtracking](#backtracking)
 * [Matrix](#matrix)
 * [DFS & BFS](#dfs-and-bfs)
