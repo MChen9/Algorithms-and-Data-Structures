@@ -9,7 +9,11 @@
  */
 class Solution {
     /**
-     * [Reference](https://www.youtube.com/watch?v=wGXB9OWhPTg)
+     * [Reference I](https://www.youtube.com/watch?v=wGXB9OWhPTg)
+     * [Reference II](https://leetcode.com/problems/recover-binary-search-tree/discuss/32559/Detail-Explain-about-How-Morris-Traversal-Finds-two-Incorrect-Pointer)
+     *
+     * Time Complexity: O(N)
+     * Space Complexity: O(1). Morris traversal
      */
     public void recoverTree(TreeNode root) {
         TreeNode cur = root;
