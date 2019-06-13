@@ -1,4 +1,3 @@
-```java
 class Solution {
     /**
      * Key points:
@@ -22,4 +21,4 @@ class Solution {
         return cnt;
     }
 }
-```
+
