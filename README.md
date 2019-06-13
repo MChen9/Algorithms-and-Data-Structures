@@ -15,6 +15,7 @@ It will includes three aspects of solution
 * [Math](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Math)
 * [Tree](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Tree)
 * [Hash Table](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Hashtable)
+* [Linked List](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Linkedlist)
 * [Backtracking](#backtracking)
 * [Matrix](#matrix)
 * [DFS & BFS](#dfs-and-bfs)
