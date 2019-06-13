@@ -1,4 +1,24 @@
 class Solution {
+    /**
+     * [Reference I](https://www.youtube.com/watch?v=ZmnqCZp9bBs)
+     * [Reference II](https://www.youtube.com/watch?v=g8bSdXCG-lA)
+     * DP + Stack
+     * Key points:
+     *   1. Regards every row as a baseline of histogram, and add 1 to the corresponding
+     *      height in heights array
+     *      e.g. ["1","0","1","0","0"]    |    heights [1, 0, 1, 0, 0]  -> maxArea = 1
+     *           ["1","0","1","1","1"]    |            [2, 0, 2, 1, 1]  -> maxArea = 2 
+     *           ["1","1","1","1","1"]    |            [3, 1, 3, 2, 1]        ...
+     *           ["1","0","0","1","0"]    +            [4, 0, 0, 3, 0]        ...
+     *    2. Calculate max area of every subhistogram by employing algorithm in 
+     *       84. Largest Rectangle in Histogram
+     *       (https://github.com/MChen9/Algorithms-and-Data-Structures/blob/master/Stack/84.%20Largest%20Rectangle%20in%20Histogram.java)
+     *
+     * Time Complexity: O(NM). Running leetcode84 on each row takes M (length of each row) time. 
+     * This is done N times for O(NM)O(NM).
+     * Space Complexity: O(M).We allocate an array the size of the the number of columns to 
+     * store our widths at each row. 
+     */
     public int maximalRectangle(char[][] matrix) {
         if (matrix.length == 0) return 0;
         int[] heights = new int[matrix[0].length];
