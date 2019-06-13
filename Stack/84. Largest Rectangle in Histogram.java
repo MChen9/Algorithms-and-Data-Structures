@@ -1,4 +1,13 @@
 class Solution {
+    /**
+     * [Reference](https://www.youtube.com/watch?v=ZmnqCZp9bBs)
+     * Key points:
+     *   Use stack to store idx of every bar that will be used for calculating
+     *   areas;
+     *    
+     * Time Complexity: O(n). n is the length of input, up to two pass of input   
+     * Space Complexity: O(n). Stack is used.
+     */
     public int largestRectangleArea(int[] heights) {
         if (heights.length == 0) return 0;
         Deque<Integer> stack = new LinkedList<>();
