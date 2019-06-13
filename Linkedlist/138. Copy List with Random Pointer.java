@@ -15,6 +15,18 @@ class Node {
 };
 */
 class Solution {
+    /**
+     * [Reference](https://leetcode.com/articles/copy-list-with-random-pointer/)
+     * Key points:
+     *   1. Create new next nodes with null random pointer
+     *      1 -> 1' -> 2 -> 2'
+     *   2. Link random pointers to corresponding nodes
+     *   3. Unlink old and new nodes
+     *      1 -> 2    1' -> 2'
+     *
+     * Time Complexity: O(N). Up to 3 pass of the nodes
+     * Space Complexity: O(1). Constant extra space for pointers
+     */
     public Node copyRandomList(Node head) {
         if (head == null) return null;
         Node oldHead;
