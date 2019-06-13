@@ -16,7 +16,7 @@ It will includes three aspects of solution
 * [Tree](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Tree)
 * [Hash Table](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Hashtable)
 * [Linked List](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Linkedlist)
-* [Bit Manipulation](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Bit-Manipulation)
+* [Bit Manipulation](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Bit%20Manipulation)
 * [Backtracking](#backtracking)
 * [Matrix](#matrix)
 * [DFS & BFS](#dfs-and-bfs)
