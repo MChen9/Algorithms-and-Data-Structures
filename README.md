@@ -21,6 +21,7 @@ It will includes three aspects of solution
 * [Linked List](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Linkedlist)
 * [Bit Manipulation](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Bit%20Manipulation)
 * [Stack](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Stack)
+* [Binary Search](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Binary%20Search)
 * [Backtracking](#backtracking)
 * [Matrix](#matrix)
 * [DFS & BFS](#dfs-and-bfs)
