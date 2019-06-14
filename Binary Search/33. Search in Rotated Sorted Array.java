@@ -1,6 +1,7 @@
 class Solution {
     /**
      * [Reference](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14425/Concise-O(log-N)-Binary-search-solution)
+     * [153. Find Minimum in Rotated Sorted Array]
      * Key points:
      *   1. Find the smallest number, which is the pivot of rotation
      *      1.1. Compare mid with hi, if hi is larger, which means 
