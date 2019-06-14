@@ -1,4 +1,7 @@
 class Solution {
+    /**
+     * [Reference](33. Search in Rotated Sorted Array.java)
+     */
     public int findMin(int[] nums) {
         int lo = 0, hi = nums.length - 1;
         int mid;
