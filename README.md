@@ -9,8 +9,9 @@ It will includes three aspects of solution
 
 [**Timeline**](https://github.com/MChen9/Algorithms-and-Data-Structures/blob/master/Timeline.md)
 
-## Ace Leetcode
+## Ace Interview
 [个人刷题经验小结](https://www.1point3acres.com/bbs/thread-531595-1-1.html)
+[也分享一点面试突击的技巧和经验](https://www.1point3acres.com/bbs/thread-531677-1-1.html)
 
 ## Contents
 * [Array](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Array)
