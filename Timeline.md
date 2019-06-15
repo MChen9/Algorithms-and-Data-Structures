@@ -50,8 +50,8 @@
 - [x] leetcode 138, 49, 136, 217, 84, 85
 
 *06/14/2019*
-- [x] leetcode 33, 153
+- [x] leetcode 33, 153, 154
 
 *06/15/2019*
-- [ ] leetcode 154
+- [ ] leetcode 
 
