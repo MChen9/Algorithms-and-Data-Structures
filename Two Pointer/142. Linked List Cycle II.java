@@ -10,6 +10,17 @@
  * }
  */
 public class Solution {
+    /**
+     * [Reference](https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.)
+     * Key points:
+     *   1. Find intersection of two pointers, one pointer with x1 speed,
+     *      another one with x2 speed;
+     *   2. Set one pointer to head, and keep going to find the entrance 
+     *      of cycle.
+     *
+     * Time Complexity: O(n)
+     * Space Complexity: O(1)
+     */
     public ListNode detectCycle(ListNode head) {
         ListNode p1 = head, p2 = head;
         // find intersection
