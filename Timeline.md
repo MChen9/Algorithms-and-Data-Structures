@@ -56,4 +56,4 @@
 - [x] leetcode 29, 287
 
 *06/16/2019*
-- [ ] leetcode 142, 287
+- [x] leetcode 142, 287
