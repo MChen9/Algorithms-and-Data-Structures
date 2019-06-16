@@ -57,3 +57,4 @@
 
 *06/16/2019*
 - [x] leetcode 142, 287
+- [ ] review last week questions
