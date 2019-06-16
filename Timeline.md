@@ -53,5 +53,5 @@
 - [x] leetcode 33, 153, 154
 
 *06/15/2019*
-- [ ] leetcode 
+- [ ] leetcode 29, 287
 
