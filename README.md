@@ -20,6 +20,7 @@ It will includes three aspects of solution
 * [Tree](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Tree)
 * [Hash Table](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Hashtable)
 * [Linked List](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Linkedlist)
+* [Two Pointers](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Two%20Pointers)
 * [Bit Manipulation](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Bit%20Manipulation)
 * [Stack](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Stack)
 * [Binary Search](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Binary%20Search)
