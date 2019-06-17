@@ -59,5 +59,5 @@
 - [x] leetcode 142, 287
 
 *06/17/2019*
-- [ ] leetcode 240, 162
+- [ ] leetcode 74, 240, 162
 - [ ] review last week questions
