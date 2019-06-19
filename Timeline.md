@@ -62,5 +62,9 @@
 - [x] leetcode 74, 240, 852, 162
 
 *06/18/2019*
-- [ ] leetcode 295, 378, 34, 300
+- [x] leetcode 295, 378
+
+*06/19/2019*
+- [ ] hackrank: Forming a Magic Square
+- [ ] leetcode 
 - [ ] review last week questions
