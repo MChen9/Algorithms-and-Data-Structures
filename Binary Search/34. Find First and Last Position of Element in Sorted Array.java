@@ -1,4 +1,12 @@
 class Solution {
+    /**
+     * [Reference](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/14734/Easy-java-O(logn)-solution)
+     * Key points:
+     *   Two binary search for two idices of target, one for left part, one for right part.
+     *   
+     * Time Complexity: O(log n)
+     * Space Complexity: O(1)
+     */
     public int[] searchRange(int[] nums, int target) {
         return new int[] {searchFirst(nums, target),
                          searchLast(nums, target)};
