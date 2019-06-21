@@ -1,6 +1,16 @@
 import java.util.*;
 
 class Solution {
+    /**
+     * [Reference](https://leetcode.com/articles/permutations/)
+     * Key points:
+     *   1. Use first as a pointer for swapping idx
+     *      1.1. first from 0 to n, then swap first with idx from itself to n
+     *      1.2. when fix first, then do DFS respectively.
+     *
+     * Time Complexity: factorial
+     * Space Complexity: O(N!) 
+     */
     public List<List<Integer>> permute(int[] nums) {
         if (nums.length == 0) return null;
         List<List<Integer>> res = new ArrayList<>();
