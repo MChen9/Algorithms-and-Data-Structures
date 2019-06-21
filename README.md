@@ -26,7 +26,7 @@ It will includes three aspects of solution
 * [Stack](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Stack)
 * [Binary Search](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Binary%20Search)
 * [Divide and Conquer](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Divide%20and%20Conquer)
-* [Backtracking](#backtracking)
+* [Backtracking](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Backtracking)
 * [Matrix](#matrix)
 * [DFS & BFS](#dfs-and-bfs)
 * [Stack & Priority Queue](#stack-and-priority-queue)
