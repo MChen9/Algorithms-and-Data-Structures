@@ -68,5 +68,8 @@
 - [x] hackrank: Forming a Magic Square
 
 *06/21/2019*
-- [ ] leetcode 46
+- [X] leetcode 46
+
+*06/22/2019*
+- [ ] leetcode 200
 - [ ] review last week questions
