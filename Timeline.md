@@ -71,5 +71,5 @@
 - [X] leetcode 46
 
 *06/22/2019*
-- [ ] leetcode 200
+- [ ] leetcode 200, 21
 - [ ] review last week questions
