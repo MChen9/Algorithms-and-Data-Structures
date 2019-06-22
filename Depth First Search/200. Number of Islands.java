@@ -1,4 +1,13 @@
 class Solution {
+    /**
+     * [Reference](https://leetcode.com/articles/number-of-islands/)
+     * Key points:
+     *   Count number of roots invoking DFS, mark every slot as '0' 
+     *   if it was '1'
+     *
+     * Time Complexity: O(m*n)
+     * Space Complexity: O(m*n), since DFS invokes stack frames
+     */
     public int numIslands(char[][] grid) {
         int res = 0;
         for (int i = 0; i < grid.length; i++) {
