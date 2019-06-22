@@ -1,4 +1,18 @@
 class Solution {
+    /**
+     * [Reference](https://leetcode.com/articles/number-of-islands/)
+     * Key points:
+     *   1. Only union vertical or horizontal '1';
+     *   2. Every disjoint set has their own parent;
+     *   3. Path compression on every find();
+     *   4. Implement as an array with m*n length;
+     *   5. Use int[] rank to record their ranks, union nodes have same rank,
+     *      so rank++ only if rankX = rankY;
+     *   6. Compare their parents rank if they have parents.
+     *
+     * Time Complexity: O(m*n), since m rows and n cols.
+     * Space Complexity: O(m*n). Array's length is m*n.
+     */
     class DisjointSet {
         int[] rank, parent;
         int num;
