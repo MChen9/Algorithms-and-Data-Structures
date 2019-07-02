@@ -10,6 +10,15 @@
  * }
  */
 public class Solution {
+    /**
+     * Key points:
+     *   1. Find length of two lists
+     *   2. Move forward the longer one till they have same length
+     *   3. Move together till find intersection
+     *
+     * Time Complexity: O(m+n)
+     * Space Complexity: O(1)
+     */
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int lenA = 0, lenB  = 0;
         ListNode dummy;
