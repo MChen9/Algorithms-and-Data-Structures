@@ -8,6 +8,12 @@
  * }
  */
 class Solution {
+    /**
+     * Level-order traversal
+     *
+     * Time Complexity: O(N)
+     * Space Complexity: O(N)
+     */
     public List<Integer> largestValues(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         if (root == null) return list;
