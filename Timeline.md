@@ -70,6 +70,6 @@
 *06/21/2019*
 - [X] leetcode 46
 
-*06/22/2019*
-- [ ] leetcode 200, 21
+*07/04/2019*
+- [ ] leetcode 559
 - [ ] review last week questions
