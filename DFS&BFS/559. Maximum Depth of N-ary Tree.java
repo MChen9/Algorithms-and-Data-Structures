@@ -13,6 +13,14 @@ class Node {
 };
 */
 class Solution {
+    /**
+     * [Reference](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/183060/Java-BFS-Iterative-Solution)
+     * Key points:
+     *   Use queue size to store the loop length, so that it can loop on every level
+     *
+     * Time Complexity: O(N), #nodes
+     * Space Complexity: O(N)
+     */
     public int maxDepth(Node root) {
         if (root == null) return 0;
         Queue<Node> queue = new LinkedList<>();
