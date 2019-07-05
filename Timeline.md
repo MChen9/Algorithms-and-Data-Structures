@@ -71,5 +71,5 @@
 - [X] leetcode 46
 
 *07/04/2019*
-- [ ] leetcode 559, 513, 515, 690, 529
+- [x] leetcode 559, 513, 515, 690, 529
 - [ ] review last week questions
