@@ -11,6 +11,14 @@ class Employee {
 };
 */
 class Solution {
+    /**
+     * Key Points:
+     *   Use hashmap to record relations of ID and Employees, since we need to find 
+     *   an entry(root) of the tree and the subordinates objects
+     *
+     * Time Complexity: O(N), where N is the number of employees. We might query each employee in BFS
+     * Space Complexity: O(N)
+     */
     public int getImportance(List<Employee> employees, int id) {
         Map<Integer, Employee> map = new HashMap<>();
         for (Employee employee: employees) {
@@ -25,7 +33,7 @@ class Solution {
             ipt += temp.importance;
             if (!temp.subordinates.isEmpty()) {
                 for (int sub:temp.subordinates) {
-                    queue.offer(map.get(sub));
+                    queue.offer(map.get(sub)); // subordinates is an array of int
                 }
             }
         }
