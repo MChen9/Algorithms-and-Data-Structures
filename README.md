@@ -29,6 +29,7 @@ It will includes three aspects of solution
 * [Backtracking](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Backtracking)
 * [Union Find](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Union%20Find)
 * [DFS & BFS](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/DFS%26BFS)
+* [Dynamic Programming](https://github.com/MChen9/Algorithms-and-Data-Structures/tree/master/Dynamic%20Programming)
 * [Matrix](#matrix)
 * [Stack & Priority Queue](#stack-and-priority-queue)
 * [Topological Sort](#topological-sort)
