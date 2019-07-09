@@ -72,4 +72,7 @@
 
 *07/04/2019*
 - [x] leetcode 559, 513, 515, 690, 529
-- [ ] review last week questions
+
+*07/09/2019*
+- [x] leetcode 39
+
