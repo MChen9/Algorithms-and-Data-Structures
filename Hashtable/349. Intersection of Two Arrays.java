@@ -1,4 +1,11 @@
 class Solution {
+    /**
+     * Key Points:
+     *   get operation O(1) in hashset, find whether an element in set1 in set2
+     *
+     * Time Complexity: O(m+n), two sets
+     * Space Complexity: O(m+n)
+     */
     public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set1, set2;
         set1 = new HashSet<>();
