@@ -6,7 +6,8 @@ class Solution {
      *      Climbing Stairs has fixed steps, while this problem has flexible steps;
      *   2. Transition function is that dp[target] = dp[target - num] + ... + dp[target -num],
      *      where num is the element of nums;
-     *   3. It can be also solved by recursive, similar to Combination Sum.
+     *   3. It can be also solved by recursive, similar to Combination Sum;
+     *   4. Mixed array[-1,1,2] can have infinite combinations.
      * 
      * Time Complexity: O(m*n), m is target, n is the length of nums
      * Space Complexity: O(m)
