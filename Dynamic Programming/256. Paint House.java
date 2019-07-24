@@ -1,4 +1,14 @@
 class Solution {
+    /**
+     * Key Points:
+     *   1. dp[i][j] means when ith house paints j color, the min cost of from 0 to ith houses;
+     *   2. Initialize dp[0][0], dp[0][1], dp[0][2] means the cost of 0th house paints diff color;
+     *   3. dp[i][0] = costs[i][0] + Math.min(dp[i-1][1], dp[i-1][2]) means when ith house paint 
+     *      0th color, the min costs of all, so we need to know the min costs of previous houses.
+     *
+     * Time Complexity: O(n)
+     * Space Complexity: O(n^2)
+     */
     public int minCost(int[][] costs) {
         int n = costs.length;
         if (n == 0) return 0;
