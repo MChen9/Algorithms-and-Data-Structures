@@ -1,4 +1,11 @@
 class Solution {
+    /**
+     * Key Points:
+     *   
+     *
+     * Time Complexity: O(sqrt(n))
+     * Space Complexity: O(1)
+     */
     public int consecutiveNumbersSum(int N) {
         int res = 0;
         for (int m = 1; m <= Math.sqrt(2 * N); ++m) {
