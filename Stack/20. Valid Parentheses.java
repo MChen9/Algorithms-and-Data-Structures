@@ -1,4 +1,14 @@
 class Solution {
+    /**
+     * Key Points:
+     *   1. Use hashmap to store end of brackets as keys;
+     *   2. If stack is empty when we need to pop, return false directly,
+     *      if the s.charAt(i) does not equal to the top of stack, which
+     *      means parentheses are not match.
+     *
+     * Time Complexity: O(n)
+     * Space Complexity: O(n)
+     */
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         Map<Character, Character> map = new HashMap<>();
