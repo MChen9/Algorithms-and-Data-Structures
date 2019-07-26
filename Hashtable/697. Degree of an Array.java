@@ -1,4 +1,13 @@
 class Solution {
+    /**
+     * Key Points:
+     *   1. Create a hashmap {num: [#occur, start, end]}, and update #occur and end within
+     *      a loop;
+     *   2. For loop to find the max #occur, and another for loop to find the max length.
+     *
+     * Time Complexity: O(n), 3 passes
+     * Space Complexity: O(n)
+     */
     public int findShortestSubArray(int[] nums) {
         Map<Integer, int[]> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
