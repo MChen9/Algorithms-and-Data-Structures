@@ -2,7 +2,8 @@ class Solution {
     /**
      * Key Points:
      * 1. IPv4
-     *    1.1. "//.", since "." is a special symbol like Intege.valueOf()
+     *    1.1. "//.", since "." is a special symbol like Intege.valueOf(), when we 
+     *         need pattern match, we use "//.", when we compare, we use '.'
      *    1.2. If "." appears at the beginning or the end, then there is no 
      *         tokens available before or after them
      *    1.3. We can use Integer.valueOf() to check the valid of decimal
