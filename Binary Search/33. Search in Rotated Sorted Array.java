@@ -14,7 +14,7 @@ class Solution {
      *   2. Find the target number by knowing where is it rotated
      *      2.1. rotMid means the real mid of unrotated array
      *      2.2. If nums[rotMid] > target, which means we should push
-     *           idx to the right, so we have hi = mid - 1, so that
+     *           idx to the left, so we have hi = mid - 1, so that
      *           rotMid can go back
      *      2.3. Same as ordinary binary search, if rotMid is target,
      *           then return
