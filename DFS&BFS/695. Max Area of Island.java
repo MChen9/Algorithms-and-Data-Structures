@@ -1,4 +1,13 @@
 class Solution {
+    /**
+     * Key Points:
+     *   1. Visited node shoud be marked as -1;
+     *   2. Result should be recorded whenever meet 1, so add
+     *      result whenever call the function.
+     *
+     * Time Complexity: O(R*C), R is #row, C is #colum
+     * Space Complexity: O(R*C), invoking so many functions
+     */
     int[][] dirs = {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
     
     public int maxAreaOfIsland(int[][] grid) {
