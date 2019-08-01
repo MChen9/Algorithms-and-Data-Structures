@@ -1,4 +1,11 @@
 class Solution {
+    /**
+     * Key Points:
+     *   Use two stacks to store count numbers and cumulated strings
+     *
+     * Time Complexity: O(n)
+     * Space Complexity: O(n)
+     */
     public String decodeString(String s) {
         String res = "";
         Stack<Integer> count = new Stack<>();
