@@ -1,4 +1,13 @@
 class Solution {
+    /**
+     * Key Points:
+     *   1. Count the #occurency of words;
+     *   2. Record words with same #occur;
+     *   3. Sort #occur and the string.
+     *
+     * Time Complexity: O(NlogN), sort
+     * Space Complexity: O(N)
+     */
     public List<String> topKFrequent(String[] words, int k) {
         Map<String, Integer> map = new HashMap<>();
         for (String word: words) {
