@@ -1,4 +1,15 @@
 class Solution {
+    /**
+     * [Iterative] + [Stack] + [Priority Queue]
+     * Key Points:
+     *   1. Use hashmap and priority queue(insert() by logn time) to construct a graph;
+     *   2. Use stack to store names and pop when there is no next stop;
+     *   3. Use linkedlist to store result, which store the element to the first idx,
+     *      and push current element to the right.
+     *
+     * Time Complexity: O(nlogn), n airports
+     * Space Complexity: O(n), n airports for priority queue and stack
+     */
     public List<String> findItinerary(List<List<String>> tickets) {
         Map<String, PriorityQueue<String>> itiMap = new HashMap<>();
         for (List<String> ticket: tickets) {
