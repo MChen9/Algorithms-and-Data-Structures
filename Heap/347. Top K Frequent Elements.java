@@ -1,4 +1,16 @@
 class Solution {
+    /**
+     * [Hash Table] + [Heap]
+     * Key Points:
+     *   1. Use hashmap to record #occur, which is a counter;
+     *   2. Use Heap to pop the min element, which is defined by Comparator
+     *      2.1. We need to override compare(object, object) in Comparator
+     *      2.2. Since the inputs are object, we need to use compareTo or 
+     *           equals
+     *
+     * Time Complexity: O(NlogK), K is the #elements in heap, N is the #operation we need
+     * Space Complexity: O(N)
+     */
     public List<Integer> topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> counter = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
